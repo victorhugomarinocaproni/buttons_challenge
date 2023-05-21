@@ -1,4 +1,4 @@
-# ddevChallenges - Buttons Challenge
+# devChallenges - Buttons Challenge
 
 ![preview](./assets/devChallenge_buttons.png)
 
